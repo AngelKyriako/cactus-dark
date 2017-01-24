@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: https://github.com/AngelKyriako?tab=repositories
 
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/AngelKyriako?tab=repositories
 
 customize:
     gravatar:
@@ -27,10 +27,11 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: https://github.com/AngelKyriako?tab=repositories
+        # twitter: /
+        # facebook: /
+        linkedin: https://linkedin.com/in/angelkyriako
+        codepen: http://codepen.io/angelkyriako
     post_count: 5
     highlight: rainbow
 
@@ -39,8 +40,8 @@ rss: false
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    disqus_shortname: angelkyriako # https://disqus.com/home/settings/account/
+    google_analytics: UA-90696360-1 # https://analytics.google.com/analytics/web
 
 # Miscellaneous
 miscellaneous:
