@@ -42,6 +42,7 @@ rss: false
 plugins:
     disqus_shortname: angelkyriako # https://disqus.com/home/settings/account/
     google_analytics: UA-90696360-1 # https://analytics.google.com/analytics/web
+    swifttype_id: -bxh8C92ZvwjPKSavSpz # https://app.swiftype.com/engines/angelkyriako-dot-github-dot-io/overview
 
 # Miscellaneous
 miscellaneous:
